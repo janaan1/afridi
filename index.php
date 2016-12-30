@@ -4,10 +4,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>-=[ SHAHAB ANWAR ]=-</title>
 <!-- The snow.css file animates the snow -->
-<link rel="stylesheet" href="scripts/snow.css" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="snow.css" type="text/css" media="screen" charset="utf-8">
 <link rel="shortcut icon" type="image/png" href="http://icons.iconarchive.com/icons/icontexto/social-inside/256/social-inside-facebook-icon.png" />
 <!-- The snow.js file creates the snow -->
-<script src="scripts/snow.js" type="text/javascript" charset="utf-8"></script>
+<script src="snow.js" type="text/javascript" charset="utf-8"></script>
 <link href='http://fonts.googleapis.com/css?family=Niconne' rel='stylesheet' type='text/css'>
 
 </head>
