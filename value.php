@@ -160,8 +160,9 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='__________________________________________
-<3 Champion Bot Team <3 Site ~> Bot-Lovers.Tk <3
+$site='
+_______________________________________
+<3 Champion Bot Team <3 Site ~> Shahab.Ga <3
 ';
 $true=$ops.'
 :) '.$ips.' :)
